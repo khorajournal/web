@@ -1,0 +1,39 @@
+{
+"index_config": {
+    "filepath": "./index.html",
+    "navbar_path": "./include/pages",
+    "bannerimg_path": "./include/images/banner.jpg",
+    "bannertext_path": "./include/markdown/bannertext.md",
+    "page_title": "Khora Journal"
+},
+
+"css_config": {
+    "filepath": "./include/style/main.css",
+    "body_style": {
+	"font-family": "Verdana"
+    },
+    "p_style": {
+	"p_align": "left",
+	"p_fontsize": "21",
+	"margin-left": "auto",
+	"margin-right": "auto"
+}, 
+    "h1_style": {
+	"text-align": "center"	
+    },
+    "div_style": {
+        "width": "50em",
+	"padding": "auto",
+	"margin": "auto"
+    },											        "navbar_style": {
+    	"background_color": "#dddddd"	
+    },
+    "bannerimg_style": {
+	"display": "block",
+	"margin-left": "auto",
+	"margin-right": "auto",
+	"width": "100%",
+	"height": "auto"
+    }
+}
+}

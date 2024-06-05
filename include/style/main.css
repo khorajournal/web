@@ -1,0 +1,47 @@
+
+body {
+    font-family: Verdana
+}
+                
+p {
+    text-align: left;
+    font-size: 21;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+                
+h1 {
+    text-align: center
+}
+                
+div {
+    width: 50em;
+    padding: auto;
+    margin: auto;
+
+}
+
+            
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #dddddd;
+}
+
+li {
+    display: inline;
+}
+
+            
+.bannerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+
+}
+
+                
