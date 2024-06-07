@@ -5,7 +5,7 @@ body {
                 
 p {
     text-align: left;
-    font-size: 1.6em;
+    font-size: 1.87em;
     margin-left: auto;
     margin-right: auto;
 }
@@ -28,10 +28,21 @@ ul {
     margin: 0;
     padding: 0;
     background-color: #dddddd;
+    height: 3.1em;
 }
 
 li {
     display: inline;
+    height: 100%;
+    margin: auto;
+}
+
+li + li {
+    margin : 1em;
+}
+
+div.navbardiv {
+    margin: auto;
 }
 
             
